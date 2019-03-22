@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BuSTOP</string>
+    <string name="imagem_splashscreen">Imagem da SplashScreen</string>
+    <string name="busimage">BusImage</string>
+    <string name="favicon">favIcon</string>
+    <string name="google_maps_key">AIzaSyDoGizhNS6NMlISEhGkWHcb7lyCn3q_dJA</string>
+</resources>

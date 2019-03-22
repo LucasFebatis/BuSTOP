@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/historico"
+        android:title="Histórico"
+        android:icon="@drawable/historico"/>
+    <item
+        android:id="@+id/mapa"
+        android:title="Mapa"
+        android:icon="@drawable/localizacao"/>
+    <item
+        android:id="@+id/favorito"
+        android:title="Favorito"
+        android:icon="@drawable/favoritos"/>
+</menu>
